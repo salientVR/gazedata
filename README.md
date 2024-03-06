@@ -13,4 +13,4 @@ Besides the raw gaze data, we also release a set of processed gaze dataset to fa
 Note that we found there are about 2.5% data in which the gaze points are out of the alleged viewport range computed by the corresponding head directions maybe due to the larger eyeball oculogyration range than VR screens.
 
 If you use the dataset, please refer to our paper as follows: "S. Wang, S. Yang, H. Li, X. Zhang, C. Zhou, C. Xu, F. Qian, N. Wang, and Z. Xu, SalientVR: Saliency-Driven Mobile 360-Degree Video Streaming with Gaze Information, *ACM MobiCom, 2022*."
-If you have any questions about the dataset, please contact me by email *wshb20081996@stu.xjtu.edu.cn*.
+If you have any questions about the dataset, please contact me by email *wangshibo96@gmail.com*.
